@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="Z:\home\ramka\www\ramka.clpprj">
+	<settings><PM_URL><![CDATA[http://ramka/]]></PM_URL><PM_HOME_URL><![CDATA[http://ramka/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><dplmenupath>
+	</dplmenupath><smartyassings>
+	</smartyassings><codestructure>
+		<csfile name="Z:\home\ramka\www\ramka.clpprj" crc="262057728">
+		</csfile><csfile name="Z:\home\ramka\www\skins\tpl\second\show.tpl" crc="1237571207">
+		</csfile><csfile name="Z:\home\ramka\www\skins\tpl\second\price_rows.tpl" crc="1469440217">
+		</csfile><csfile name="Z:\home\ramka\www\skins\tpl\main\show.tpl" crc="-383015583">
+		</csfile><csfile name="Z:\home\ramka\www\skins\tpl\admin\meta\show.tpl" crc="396641924">
+		</csfile><csfile name="Z:\home\ramka\www\skins\tpl\admin\sequrity.tpl" crc="-1986444936">
+		</csfile><csfile name="Z:\home\ramka\www\skins\tpl\menu.tpl" crc="1876170439">
+		</csfile><csfile name="Z:\home\ramka\www\skins\tpl\index.tpl" crc="-316253067">
+		</csfile><csfile name="Z:\home\ramka\www\skins\tpl\admin_menu.tpl" crc="-439943663">
+		</csfile><csfile name="Z:\home\ramka\www\setup\meta.txt" crc="961741115">
+		</csfile><csfile name="Z:\home\ramka\www\modules\second\view.php" crc="-317600420">
+			<phptree>
+				<treenode node="./skins/tpl/second/show.tpl;Php:Php Include;13;23;40;23;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="Z:\home\ramka\www\modules\second\router.php" crc="-965039295">
+			<phptree>
+				<treenode node="./modules/second/read_controller.php;Php:Php Include;13;24;49;24;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="./modules/second/view.php;Php:Php Include;13;30;38;30;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="Z:\home\ramka\www\modules\second\read_controller.php" crc="1691351304">
+			<phptree>
+				<treenode node="i;Php:Var Name;4;33;6;33;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="res;Php:Var Name;4;28;8;28;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="row;Php:Var Name;14;39;18;39;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="rows;Php:Var Name;4;32;9;32;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="tpl;Php:Var Name;8;37;12;37;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="Z:\home\ramka\www\modules\main\view.php" crc="-1548504069">
+			<phptree>
+				<treenode node="./skins/tpl/main/show.tpl;Php:Php Include;13;23;38;23;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="Z:\home\ramka\www\modules\main\router.php" crc="-798192287">
+			<phptree>
+				<treenode node="./modules/main/read_controller.php;Php:Php Include;13;23;47;23;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="./modules/main/view.php;Php:Php Include;13;29;36;29;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="Z:\home\ramka\www\modules\main\read_controller.php" crc="637725008">
+		</csfile><csfile name="Z:\home\ramka\www\log\.htaccess" crc="-643410220">
+		</csfile><csfile name="Z:\home\ramka\www\libs\view.php" crc="1824726373">
+			<phptree>
+				<treenode node="getMeta;Php:Function Name;4;72;5;87;34;;;v;;r;;d4,73;;b0,0;;mtag;;ppage;;p">
+				</treenode>
+				<treenode node="getTpl;Php:Function Name;4;38;5;44;34;;;v;;r;;d4,39;;b0,0;;mtpl;;p">
+				</treenode>
+				<treenode node="htmlChars;Php:Function Name;4;23;5;31;34;;;v;;r;;d4,24;;b0,0;;mdata;;p">
+				</treenode>
+				<treenode node="parseTpl;Php:Function Name;4;50;5;65;34;;;v;;r;;d4,51;;b0,0;;mcont;;pdata;;p">
+				</treenode>
+				<treenode node="description;Php:Var Name;3;91;15;91;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="GET;Php:Var Name;35;89;39;89;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="keywords;Php:Var Name;3;90;12;90;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="title;Php:Var Name;3;89;9;89;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="Z:\home\ramka\www\libs\mysql.php" crc="1240838846">
+			<phptree>
+				<treenode node="mysqlQuery;Php:Function Name;4;24;5;56;34;;;v;;r;;d4,25;;b0,0;;msql;;pprint;;p">
+				</treenode>
+				<treenode node="db_irbis;Php:Var Name;4;62;13;62;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="Z:\home\ramka\www\libs\default.php" crc="260983762">
+			<phptree>
+				<treenode node="formatDate;Php:Function Name;4;78;5;91;34;;;v;;r;;d4,79;;b0,0;;mdate;;pformat;;p">
+				</treenode>
+				<treenode node="href;Php:Function Name;3;25;4;68;34;;;v;;r;;d3,26;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="Z:\home\ramka\www\language\ru.php" crc="-1911806745">
+			<phptree>
+				<treenode node="month;Php:Var Name;4;20;10;20;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="Z:\home\ramka\www\language\en.php" crc="-1729938921">
+		</csfile><csfile name="Z:\home\ramka\www\admin\sequrity\exit.php" crc="546654480">
+		</csfile><csfile name="Z:\home\ramka\www\admin\sequrity\enter.php" crc="460840050">
+			<phptree>
+				<treenode node="_SESSION;Php:Var Name;12;23;21;23;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="admin;Php:Var Name;23;21;29;21;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="admins;Php:Var Name;12;21;19;21;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="pass;Php:Var Name;33;21;38;21;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="POST;Php:Var Name;11;22;16;22;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="Z:\home\ramka\www\admin\second\view.php" crc="1725363321">
+		</csfile><csfile name="Z:\home\ramka\www\admin\second\router.php" crc="-161049374">
+		</csfile><csfile name="Z:\home\ramka\www\admin\second\read_controller.php" crc="677361959">
+		</csfile><csfile name="Z:\home\ramka\www\admin\meta\view.php" crc="1645747767">
+			<phptree>
+				<treenode node="GET;Php:Var Name;35;22;39;22;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="menu;Php:Var Name;4;29;9;29;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="meta;Php:Var Name;29;22;34;22;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="modul;Php:Var Name;4;27;10;27;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="POST;Php:Var Name;4;22;9;22;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="Z:\home\ramka\www\admin\meta\router.php" crc="1636107791">
+		</csfile><csfile name="Z:\home\ramka\www\admin\meta\read_controller.php" crc="801117983">
+			<phptree>
+				<treenode node="getMenu;Php:Function Name;4;27;5;42;34;;;v;;r;;d4,28;;b0,0;;m">
+				</treenode>
+				<treenode node="getModul;Php:Function Name;4;48;5;54;34;;;v;;r;;d4,49;;b0,0;;m">
+				</treenode>
+				<treenode node="arrays;Php:Var Name;8;64;15;64;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="CONFIG_SETTING;Php:Var Name;15;62;30;62;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="GET;Php:Var Name;14;78;18;78;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="meta;Php:Var Name;8;70;13;70;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="ok;Php:Var Name;7;75;10;75;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="POST;Php:Var Name;52;78;57;78;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="Z:\home\ramka\www\admin\main\view.php" crc="1725363321">
+		</csfile><csfile name="Z:\home\ramka\www\admin\main\router.php" crc="1446809347">
+		</csfile><csfile name="Z:\home\ramka\www\admin\main\read_controller.php" crc="-1872061042">
+		</csfile><csfile name="Z:\home\ramka\www\admin\index.php" crc="-333584042">
+			<phptree>
+				<treenode node="../config.php;Php:Php Include;12;45;25;45;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="../debug.php;Php:Php Include;12;27;24;27;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="_SESSION;Php:Var Name;14;72;23;72;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="content;Php:Var Name;4;105;12;105;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="GET;Php:Var Name;15;79;19;79;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="Z:\home\ramka\www\variables.php" crc="-2107700810">
+			<phptree>
+				<treenode node="stripslashesDeep;Php:Function Name;4;24;5;31;34;;;v;;r;;d4,25;;b0,0;;mdata;;p">
+				</treenode>
+				<treenode node="_COOKIE;Php:Var Name;8;37;16;37;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="_GET;Php:Var Name;8;35;13;35;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="_POST;Php:Var Name;8;36;14;36;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="error;Php:Var Name;3;99;9;99;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="get;Php:Var Name;8;57;12;57;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="GET;Php:Var Name;4;44;8;44;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="i;Php:Var Name;8;58;10;58;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="ok;Php:Var Name;4;78;7;78;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="POST;Php:Var Name;4;84;9;84;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="val;Php:Var Name;32;60;36;60;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="var;Php:Var Name;24;60;28;60;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="Z:\home\ramka\www\index.php" crc="1016179878">
+			<phptree>
+				<treenode node="./config.php;Php:Php Include;13;34;25;34;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="./debug.php;Php:Php Include;12;28;23;28;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="./language/;Php:Php Include;13;40;24;40;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="./libs/default.php;Php:Php Include;13;52;31;52;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="./libs/view.php;Php:Php Include;13;58;28;58;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="./modules/main/router.php;Php:Php Include;21;74;46;74;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="./modules/second/router.php;Php:Php Include;21;81;48;81;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="./skins/tpl/index.tpl;Php:Php Include;13;105;34;105;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="./variables.php;Php:Php Include;13;46;28;46;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="content;Php:Var Name;4;92;12;92;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="GET;Php:Var Name;11;67;15;67;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="Z:\home\ramka\www\debug.php" crc="-1472782966">
+			<phptree>
+				<treenode node="dbg;Php:Function Name;2;17;3;94;34;;;v;;r;;d2,18;;b0,0;;mvar;;pexit;;p">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="Z:\home\ramka\www\config.php" crc="398598337">
+			<phptree>
+				<treenode node="_SERVER;Php:Var Name;34;104;42;104;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="admins;Php:Var Name;4;28;11;28;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="CONFIG_SETTING;Php:Var Name;4;53;19;53;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="Z:\home\ramka\www\404.html" crc="12441538">
+		</csfile><csfile name="Z:\home\ramka\www\403.html" crc="2011354357">
+		</csfile><csfile name="Z:\home\ramka\www\401.html" crc="-1064407215">
+		</csfile><csfile name="Z:\home\ramka\www\.htaccess" crc="-212470850">
+		</csfile></codestructure><dbgurls>
+	</dbgurls>
+</project>
